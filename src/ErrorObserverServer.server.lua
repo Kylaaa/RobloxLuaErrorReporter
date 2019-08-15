@@ -1,6 +1,5 @@
 
 -- services
-local HttpService = game:GetService("HttpService")
 local ScriptContext = game:GetService("ScriptContext")
 local StarterPlayer = game:GetService("StarterPlayer")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
